@@ -1,5 +1,4 @@
 function dataHandling(array) {
-    var output = "";
     for (var i = 0; i < array.length; i++) {
         console.log("Nomor ID: " + array[i][0]);
         console.log("Nama Lengkap: " + array[i][1]);
